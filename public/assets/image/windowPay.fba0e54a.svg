@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192.089" height="54.114" viewBox="0 0 192.089 54.114">
+  <g id="Group_5991" data-name="Group 5991" transform="translate(0.5 0.5)">
+    <rect id="Rectangle_171" data-name="Rectangle 171" width="191.089" height="53.114" rx="5" fill="#070607" stroke="#4d4d4d" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="Available_on_" data-name="Available on " transform="translate(56.042 18.79)" fill="#fff" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Available on </tspan></text>
+    <g id="Group_5990" data-name="Group 5990" transform="translate(10.39 11.544)">
+      <path id="Path_12388" data-name="Path 12388" d="M573.363,427.923v22.033a2.809,2.809,0,0,1-2.993,1.807c-3.612-.056-7.225-.02-10.838-.017-.285,0-.569.027-.853.042l-.17.255a25.913,25.913,0,0,0,2.319,2.5,24.656,24.656,0,0,0,2.787,1.806H545.656c2.239-1.095,4.167-2.265,5.208-4.6h-1.022c-3.585,0-7.171-.038-10.755.019a2.807,2.807,0,0,1-2.993-1.807V427.923a2.814,2.814,0,0,1,2.986-1.821q15.648.049,31.3,0A2.814,2.814,0,0,1,573.363,427.923Zm-2.343.565H538.466v18.571H571.02Z" transform="translate(-536.095 -426.102)" fill="#fff"/>
+    </g>
+    <text id="Windows_IOS" data-name="Windows/IOS" transform="translate(56.088 40.786)" fill="#fff" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Windows/IOS</tspan></text>
+  </g>
+</svg>
